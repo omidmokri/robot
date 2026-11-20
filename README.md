@@ -1,2 +1,7 @@
-# robot
-robot.entekhab.net — the Coin_Kurd Telegram bot's own page
+# robot.entekhab.net
+
+صفحهٔ ربات تلگرام کوین کورد (@Kurd_kurdistan_bot) روی آدرس کوتاه خودش.
+محتوای این صفحه همان entekhab.net/bot/ است و canonical هم به همان‌جا اشاره می‌کند،
+پس موتورهای جست‌وجو آن را نسخهٔ تکراری حساب نمی‌کنند.
+
+فونت‌ها، لوگو و آیکون‌ها همین‌جا سرو می‌شوند تا صفحه به هیچ میزبان دیگری نیاز نداشته باشد.
